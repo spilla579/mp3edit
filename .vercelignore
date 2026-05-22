@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+.DS_Store?
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
+.env.local
+
+# Build
+dist/
+build/
+
+# Documentation
+*.md
+README.md
+
+# Testing
+test/
+tests/
+*.test.js
+
+# Git
+.git/
+.gitignore
+
+# Node
+.npm
+.npmrc
+
+# Temp
+/tmp
+/temp
